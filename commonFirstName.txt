@@ -1,0 +1,796 @@
+1
+11
+1.13 %
+MIORA		
+1
+4
+0.41 %
+Luciano
+2
+6
+0.62 %
+stephanie		
+2
+4
+0.41 %
+Gaethon
+3
+6
+0.62 %
+christelle		
+3
+4
+0.41 %
+Mickaël
+4
+5
+0.51 %
+Anja		
+4
+4
+0.41 %
+Ricardo
+5
+5
+0.51 %
+Aina		
+5
+4
+0.41 %
+Kevin
+6
+5
+0.51 %
+Mialy		
+6
+3
+0.31 %
+Mendrika
+7
+5
+0.51 %
+Anna		
+7
+3
+0.31 %
+yandee
+8
+4
+0.41 %
+Cynthia		
+8
+3
+0.31 %
+Judicael
+9
+4
+0.41 %
+Rotsy		
+9
+3
+0.31 %
+jimmy
+10
+4
+0.41 %
+Mia		
+10
+3
+0.31 %
+MAMY
+11
+4
+0.41 %
+Karen		
+11
+3
+0.31 %
+tsiory
+12
+4
+0.41 %
+Ando		
+12
+3
+0.31 %
+jonathan
+13
+4
+0.41 %
+Tatiana		
+13
+3
+0.31 %
+tahina
+14
+4
+0.41 %
+Eva		
+14
+3
+0.31 %
+AINA
+15
+4
+0.41 %
+Antsa		
+15
+2
+0.21 %
+Clarck
+16
+4
+0.41 %
+domoina		
+16
+2
+0.21 %
+Arilova
+17
+3
+0.31 %
+tsiky		
+17
+2
+0.21 %
+Rudy
+18
+3
+0.31 %
+Lili		
+18
+2
+0.21 %
+Raphael
+19
+3
+0.31 %
+Raissa		
+19
+2
+0.21 %
+Andry
+20
+3
+0.31 %
+ERICA		
+20
+2
+0.21 %
+Rado
+21
+3
+0.31 %
+Miantsa		
+21
+2
+0.21 %
+joan
+22
+3
+0.31 %
+Hanitra		
+22
+2
+0.21 %
+Riccardo
+23
+3
+0.31 %
+Linah		
+23
+2
+0.21 %
+Landry
+24
+3
+0.31 %
+Prisca		
+24
+2
+0.21 %
+daniel
+25
+3
+0.31 %
+frederica		
+25
+2
+0.21 %
+Hasina
+26
+3
+0.31 %
+Ny Avo		
+26
+2
+0.21 %
+Stenny
+27
+3
+0.31 %
+Aliciah		
+27
+2
+0.21 %
+Nicolas
+28
+3
+0.31 %
+Sylvie		
+28
+2
+0.21 %
+Stephane
+29
+2
+0.21 %
+malala		
+29
+2
+0.21 %
+Eric
+30
+2
+0.21 %
+Tiavina		
+30
+2
+0.21 %
+Patrick
+31
+2
+0.21 %
+Jeminah		
+31
+2
+0.21 %
+Mandresy
+32
+2
+0.21 %
+Rinasoa		
+32
+2
+0.21 %
+Andy
+33
+2
+0.21 %
+Lucia		
+33
+2
+0.21 %
+Roland
+34
+2
+0.21 %
+Hasimbola		
+34
+2
+0.21 %
+chernot
+35
+2
+0.21 %
+Tiffanny		
+35
+2
+0.21 %
+Nomena
+36
+2
+0.21 %
+Mioura		
+36
+2
+0.21 %
+Michel
+37
+2
+0.21 %
+Mirana		
+37
+2
+0.21 %
+tombovelo
+38
+2
+0.21 %
+olandine		
+38
+2
+0.21 %
+Mathieu
+39
+2
+0.21 %
+Christinah		
+39
+2
+0.21 %
+serge
+40
+2
+0.21 %
+anita		
+40
+1
+0.10 %
+Sam Alexandre
+41
+2
+0.21 %
+Tatianah		
+41
+1
+0.10 %
+Lala
+42
+2
+0.21 %
+Hasina		
+42
+1
+0.10 %
+kiady
+43
+2
+0.21 %
+Wenddy		
+43
+1
+0.10 %
+tokyb
+44
+2
+0.21 %
+Niry		
+44
+1
+0.10 %
+Intel
+45
+2
+0.21 %
+Maeva		
+45
+1
+0.10 %
+zo
+46
+2
+0.21 %
+Emma		
+46
+1
+0.10 %
+Michelah
+47
+2
+0.21 %
+ony		
+47
+1
+0.10 %
+ionick
+48
+2
+0.21 %
+jessica		
+48
+1
+0.10 %
+Huberto
+49
+2
+0.21 %
+Océane		
+49
+1
+0.10 %
+samoely
+50
+2
+0.21 %
+Yolande		
+50
+1
+0.10 %
+yupi
+51
+2
+0.21 %
+Ayanna		
+51
+1
+0.10 %
+Gael
+52
+2
+0.21 %
+Valisoa		
+52
+1
+0.10 %
+Idealy
+53
+2
+0.21 %
+ADRIANNA		
+53
+1
+0.10 %
+Eloan
+54
+2
+0.21 %
+Maurah		
+54
+1
+0.10 %
+najaina
+55
+2
+0.21 %
+Lova		
+55
+1
+0.10 %
+John Andy
+56
+2
+0.21 %
+Mikanto		
+56
+1
+0.10 %
+Lionel
+57
+2
+0.21 %
+Finoana		
+57
+1
+0.10 %
+Lucka
+58
+2
+0.21 %
+Manda		
+58
+1
+0.10 %
+Ivane
+59
+2
+0.21 %
+Alicia		
+59
+1
+0.10 %
+Tahiry
+60
+2
+0.21 %
+Ormina		
+60
+1
+0.10 %
+Precieux
+61
+2
+0.21 %
+Kaliana		
+61
+1
+0.10 %
+kanto
+62
+2
+0.21 %
+Nomena		
+62
+1
+0.10 %
+ELY
+63
+2
+0.21 %
+Angela		
+63
+1
+0.10 %
+Niaina
+64
+2
+0.21 %
+Loïs		
+64
+1
+0.10 %
+JOELSON
+65
+2
+0.21 %
+Nya		
+65
+1
+0.10 %
+Yanis
+66
+2
+0.21 %
+Sue		
+66
+1
+0.10 %
+Savio
+67
+2
+0.21 %
+koly		
+67
+1
+0.10 %
+Adelin
+68
+2
+0.21 %
+sarobidy		
+68
+1
+0.10 %
+Lio
+69
+2
+0.21 %
+Annick		
+69
+1
+0.10 %
+tojoniaina
+70
+2
+0.21 %
+Kanto		
+70
+1
+0.10 %
+Andréa
+71
+2
+0.21 %
+Jena Marisa		
+71
+1
+0.10 %
+Jay
+72
+2
+0.21 %
+jhany		
+72
+1
+0.10 %
+Belmando
+73
+2
+0.21 %
+Nirina		
+73
+1
+0.10 %
+Jules Feny
+74
+2
+0.21 %
+Cia		
+74
+1
+0.10 %
+Leon
+75
+2
+0.21 %
+Rowena		
+75
+1
+0.10 %
+Christian
+76
+2
+0.21 %
+Vaniala		
+76
+1
+0.10 %
+Anjatoky
+77
+2
+0.21 %
+FARA		
+77
+1
+0.10 %
+Ilaymisy
+78
+2
+0.21 %
+Mélanie		
+78
+1
+0.10 %
+Rija
+79
+2
+0.21 %
+Liliane		
+79
+1
+0.10 %
+Raoult
+80
+2
+0.21 %
+carole		
+80
+1
+0.10 %
+Givano
+81
+2
+0.21 %
+mimi		
+81
+1
+0.10 %
+Fred
+82
+2
+0.21 %
+Tahiry		
+82
+1
+0.10 %
+Elio
+83
+2
+0.21 %
+Lalaina		
+83
+1
+0.10 %
+Diorré
+84
+2
+0.21 %
+Christina		
+84
+1
+0.10 %
+Ambinintsoa
+85
+2
+0.21 %
+Alice		
+85
+1
+0.10 %
+FERDINAND
+86
+1
+0.10 %
+Lydminah		
+86
+1
+0.10 %
+Dusty
+87
+1
+0.10 %
+Chrystelle		
+87
+1
+0.10 %
+thimeo
+88
+1
+0.10 %
+Larissa		
+88
+1
+0.10 %
+Rowan
+89
+1
+0.10 %
+nael		
+89
+1
+0.10 %
+Lucas
+90
+1
+0.10 %
+Rojo Ny Aina		
+90
+1
+0.10 %
+Ashael
+91
+1
+0.10 %
+Venya		
+91
+1
+0.10 %
+Marolahy
+92
+1
+0.10 %
+Fanirii		
+92
+1
+0.10 %
+Wille
+93
+1
+0.10 %
+youna		
+93
+1
+0.10 %
+Florent
+94
+1
+0.10 %
+Joelle		
+94
+1
+0.10 %
+Mario
+95
+1
+0.10 %
+Jenica		
+95
+1
+0.10 %
+Benito
+96
+1
+0.10 %
+Gloria		
+96
+1
+0.10 %
+Philippe
+97
+1
+0.10 %
+celia		
+97
+1
+0.10 %
+Tanjona
+98
+1
+0.10 %
+Vanessa		
+98
+1
+0.10 %
+Riry Florent
+99
+1
+0.10 %
+Rozza		
+99
+1
+0.10 %
+Power
+100
+1
+0.10 %
+Steffi
