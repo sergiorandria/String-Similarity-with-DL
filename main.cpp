@@ -10,8 +10,8 @@
 int main()
 {
     std::ifstream listName("malagasy_names.txt");
-    std::string str1 = "RAsoanaivo andry";
-    std::string str2 = "Rasoanaivo andry";
+    std::string str1 = "Rakontondraibe Aina";
+    std::string str2 = "Rakotondrabe Aina";
 
     auto gram1 = generateNGrams(str1, 6);
     auto gram2 = generateNGrams(str2, 6);
